@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 /release.properties
 /pom.xml.releaseBackup
+=======
+config/site.php
+files/cache/*
+files/tmp/*
+.htaccess
+>>>>>>> 07683e83c4b3341f617e14fa8ec8d9e6ae0c035a
