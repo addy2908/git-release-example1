@@ -5,7 +5,7 @@
 
 	<groupId>com.vitormp</groupId>
 	<artifactId>git-release-example</artifactId>
-	<version>0.1.15-SNAPSHOT</version>
+	<version>0.1.16</version>
 	<packaging>war</packaging>
 
 	<name>git-release-example Maven Webapp</name>
@@ -14,7 +14,7 @@
 		<connection>scm:git:ssh://git@github.com:addy2908/git-release-example1.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:addy2908/git-release-example1.git</developerConnection>
 		<url>scm:git:ssh://git@github.com:addy2908/git-release-example1.git</url>
-	  <tag>0.1.16</tag>
+	  <tag>git-release-example-0.1.16</tag>
   </scm>
 
 	<distributionManagement>
