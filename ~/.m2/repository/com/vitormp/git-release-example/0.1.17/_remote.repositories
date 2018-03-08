@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 08 02:39:09 CST 2018
+git-release-example-0.1.17-sources.jar>=
+git-release-example-0.1.17-javadoc.jar>=
+git-release-example-0.1.17.pom>=
+git-release-example-0.1.17.war>=
